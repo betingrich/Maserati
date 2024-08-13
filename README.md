@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐌𝐀𝐒𝐄𝐑𝐀𝐓𝐈" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
     <img alt="wasi" height="400" src="https://telegra.ph/file/7ea359b542de6d6c016ca.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">BUGATTI</h1>
+   <h1 align="center">𝐌𝐀𝐒𝐄𝐑𝐀𝐓𝐈</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
