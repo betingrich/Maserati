@@ -1,94 +1,86 @@
 const { zokou } = require('../framework/zokou');
-const {addOrUpdateDataInAlive , getDataFromAlive} = require('../bdd/alive')
+const { addOrUpdateDataInAlive, getDataFromAlive } = require('../bdd/alive');
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
 zokou(
     {
-        nomCom : 'alive',
-        categorie : 'Général'
-        
-    },async (dest,zk,commandeOptions) => {
+        commandName: 'alive',
+        category: 'General'
+    }, async (dest, zk, commandOptions) => {
 
- const {ms , arg, repondre,superUser} = commandeOptions;
+        const { ms, arg, reply, superUser } = commandOptions;
 
- const data = await getDataFromAlive();
+        const data = await getDataFromAlive();
 
- if (!arg || !arg[0] || arg.join('') === '') {
+        if (!arg || !arg[0] || arg.join('') === '') {
 
-    if(data) {
-       
-        const {message , lien} = data;
+            if (data) {
 
+                const { message, link } = data;
 
-        var mode = "public";
-        if (s.MODE != "oui") {
-            mode = "privé";
-        }
-      
-    
-     
-    moment.tz.setDefault('Etc/GMT');
+                let mode = "public";
+                if (s.MODE !== "yes") {
+                    mode = "private";
+                }
 
-// Créer une date et une heure en GMT
-const temps = moment().format('HH:mm:ss');
-const date = moment().format('DD/MM/YYYY');
+                moment.tz.setDefault('Etc/GMT');
 
-    const alivemsg = `
-*Proprietaire* : ${s.NOM_OWNER}
+                // Create a date and time in GMT
+                const time = moment().format('HH:mm:ss');
+                const date = moment().format('DD/MM/YYYY');
+
+                const aliveMsg = `
+*Owner* : ${s.OWNER_NAME}
 *Mode* : ${mode}
 *Date* : ${date}
-*Heure* : ${temps}
+*Time* : ${time}
 
  ${message}
- 
- 
- *𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐢*`
 
- if (lien.match(/\.(mp4|gif)$/i)) {
-    try {
-        zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-// Vérification pour .jpeg ou .png
-else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
-    try {
-        zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-else {
-    
-    repondre(alivemsg);
-    
-}
+ *Masérati*`;
 
-    } else {
-        if(!superUser) { repondre("il n'a pas d'alive pour ce bot") ; return};
+                if (link.match(/\.(mp4|gif)$/i)) {
+                    try {
+                        zk.sendMessage(dest, { video: { url: link }, caption: aliveMsg }, { quoted: ms });
+                    } catch (e) {
+                        console.log("🥵🥵 Menu error " + e);
+                        reply("🥵🥵 Menu error " + e);
+                    }
+                }
+                // Check for .jpeg or .png
+                else if (link.match(/\.(jpeg|png|jpg)$/i)) {
+                    try {
+                        zk.sendMessage(dest, { image: { url: link }, caption: aliveMsg }, { quoted: ms });
+                    } catch (e) {
+                        console.log("🥵🥵 Menu error " + e);
+                        reply("🥵🥵 Menu error " + e);
+                    }
+                } else {
+                    reply(aliveMsg);
+                }
 
-      await   repondre("Vous n'avez pas encore enregistrer votre alive , pour ce faire ;\n tapez entrez apres alive votre message et votre lien image ou video dans ce contete : .alive message;lien");
-         repondre(" je prend mon temps pour t'expliquer ; gars a toi si tu fait faux")
-     }
- } else {
+            } else {
+                if (!superUser) {
+                    reply("There is no alive message for this bot"); 
+                    return;
+                }
 
-    if(!superUser) { repondre ("Seul le proprietaire a le droit de modifier l'alive") ; return};
+                await reply("You haven't registered your alive message yet. To do so, type 'alive' followed by your message and your image or video link in this format: .alive message;link");
+                reply("I am taking my time to explain; it’s up to you if you make a mistake.");
+            }
+        } else {
 
-  
-    const texte = arg.join(' ').split(';')[0];
-    const tlien = arg.join(' ').split(';')[1]; 
+            if (!superUser) {
+                reply("Only the owner has the right to modify the alive message"); 
+                return;
+            }
 
+            const text = arg.join(' ').split(';')[0];
+            const link = arg.join(' ').split(';')[1];
 
-    
-await addOrUpdateDataInAlive(texte , tlien)
+            await addOrUpdateDataInAlive(text, link);
 
-repondre('message alive actualiser avec succes')
-
-}
+            reply('Alive message successfully updated.');
+        }
     });
