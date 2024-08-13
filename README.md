@@ -1,74 +1,125 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
 
-<h1 align="center"> HACKING MD SERVICE BOT WHATSAPP  </h1>
 <p align="center">  
+  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
+    <img alt="wasi" height="400" src="https://telegra.ph/file/7ea359b542de6d6c016ca.jpg">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <h1 align="center">BUGATTI</h1>
+  </a>
+    <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
+ 
+</p>
+<p align="center">
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Maserati?&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Maserati?style=social"></a>
+<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Maserati?label=Watching&style=social"></a>
+</p>></a>                     
+
+   <h1 align="center"                  
+
+
 
 ***
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HACKING LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+THOMAS+TECH;BOT DATÉE+06.6.2024" alt="Typing SVG" /></a>
-  </p>
-    <img alt="𝐌𝐚𝐬𝐞𝐫𝐭𝐢" width="700" height="300" src="https://telegra.ph/file/ac3a8142e8e18bcabb75b.jpg">
-<p align="center">
-<p align="center">
 
 
- ## 𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐢 : 𝐋𝐚𝐬𝐭 𝐡𝐨𝐩𝐞 𝐛𝐨𝐭
 
-**Imaginez un assistant personnel qui vous accompagne dans toutes vos conversations WhatsApp.** Un assistant capable de gérer vos fichiers, d'interagir avec des autocollants et de faciliter la gestion de vos groupes. Cet assistant, c'est HACKING-MD.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</a></p>
+- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
 
-**HACKING-MD est bien plus qu'un simple robot.** C'est un véritable compagnon qui vous fera gagner du temps et vous simplifiera la vie. Voici quelques exemples de ce qu'il peut faire pour vous :
 
-* **Gérer vos fichiers :** Envoyez et recevez des fichiers de toutes sortes, y compris des documents, des images et des vidéos. HACKING-MD s'occupe de tout pour vous, de la compression à l'envoi.
-* **Interagir avec des autocollants :** 𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐢 comprend vos émotions et sait comment les exprimer avec des autocollants amusants et pertinents. Il vous suffit de lui dire ce que vous ressentez et il trouvera le sticker parfait pour l'occasion.
-* **Faciliter la gestion de vos groupes :** 𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐢 peut vous aider à gérer vos groupes WhatsApp de manière efficace. Il peut ajouter ou supprimer des membres, modifier les noms et les descriptions des groupes, et même envoyer des messages à tous les membres en même temps.
+- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
 
-**HACKING-MD est un outil indispensable pour tous ceux qui utilisent WhatsApp.** Il vous fera gagner du temps, vous simplifiera la vie et rendra vos conversations plus agréables.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**N'attendez plus, installez 𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐮 dès aujourd'hui !**
+</p>
 
-**Voici quelques autres avantages de 𝐌𝐚𝐬𝐞𝐫𝐚𝐭𝐢 :**
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Maserati&template=https://github.com/betingrich/Maserati"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
 
-* **Disponible sur tous les appareils :** HACKING-MD est compatible avec tous les appareils, y compris les smartphones, les tablettes et les ordinateurs.
-* **Facile à utiliser :** HACKING-MD est très facile à utiliser, même pour les personnes qui ne sont pas familiarisées avec les robots.
-* **Personnalisable :** Vous pouvez personnaliser HACKING-MD en fonction de vos besoins.
-* **Gratuit :** HACKING-MD est entièrement gratuit.
 
-**HACKING-MD est le robot multi-appareils qui révolutionne vos conversations WhatsApp.** Installez-le dès aujourd'hui et découvrez toutes ses fonctionnalités !
 
-## OBTENIR HACKING SESSION_ID 
+- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
 
-1. Veillez cliquer sur **[ETOILE](https://github.com/HACKING995/HACKING--MD9/edit/main/README.md)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
-2. ## OBTENEZ DES SESSIONS DE CE  BOT : <br>
-  
-[**Session-1**](https://habot.000webhostapp.com/)  ; *TOUT  LES SESSION  SE TROUVE ICI*
 
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://github.com/betingrich/Maserati"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Maserati" width="220" height="38.45"/></a></p>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</p>
+   
+##
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Join my channel for updates
+<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
+HOW TO REACH THE OWNER? 
  
+   
+   <a href="https://wa.me/254740007567">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
 
-## DEPLOYMENT 
-- **déploiement sur heroku**
-  1. si vous ne disposez pas de compte **heroku** cliquez [**ici create**](https://id.heroku.com/login) pour vous en procurer un .
-  2.  cliquez [**ici heroku**](https://dashboard.heroku.com/new?template=https://github.com/HACKING995/HACKING--MD9) pour deployer le bot sur **heroku**
+    ## Ask any thing
 
-- **Déploiement sur Koyeb**
-  1. si vous n'avez pas de compte **koyeb** cliquez [**ici**](https://dashboard.koyeb.com/signup) pour vous en procurer un .
-  2.  cliquez [**ici**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
-  ) pour deployer le bot sur **koyeb**
+</p>
 
+## STEPS TO DEPLOY YOUR BOT
+
+
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Bugatti/fork)
+
+2, TAP ON GET SESSIONS
+
+
+
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+
+
+
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
+
+</p>
+
+
+
+
+
+
+  
+
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Contributions
 
-Les contributions à HACKING sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
 
-
-                
-## Licence
-
-Le Bot WhatsApp HACKING est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
-
-Profitez des fonctionnalités variées du Bot WhatsApp HACKING pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
-
-
-## Developpeur :
- 
-  [**Thomas**](https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ)<br>
-  [**᚛MD-HACKER ᚜**](https://wa.me/22588697148)
- 
+Contributions to *MASERATI* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+## THANKS TO [GOD]
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
